@@ -1,6 +1,6 @@
 # Finance-Expense-Tracking-App
 This application helps with tracking for personal or business expenses on an individual basis. It could be used to track travel or business expenses and deliver information in an easy to read format. Users can track enter charges and expenditures daily and create a pool of data for them to have a holistic understanding of the expenditures the user has.
-# Testing this application
+## Testing this application
 1.	Download and unzip the code files required for the application
 2.	Make sure Visual Studio Code is installed your machine (if you have not already done so)
 3.	Go to https://nodejs.org/en/ and download Node.js (if you have not already done so)
